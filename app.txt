@@ -5,3 +5,4 @@ Versión estable preparada
 ERROR CRITICO EN PRODUCCION
 Código funcional pero con baja calidad
 Código mejorado y revisado
+Funcionalidad lista para pasar por entornos
