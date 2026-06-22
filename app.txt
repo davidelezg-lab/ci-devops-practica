@@ -3,3 +3,4 @@ Cambio desde feature A
 Cambio sin añadir
 Versión estable preparada
 ERROR CRITICO EN PRODUCCION
+Código funcional pero con baja calidad
