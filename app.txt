@@ -1,3 +1,4 @@
 Cambio desde main
 Cambio desde feature A
 Cambio sin añadir
+Validación de datos añadida
