@@ -2,3 +2,4 @@ Cambio desde main
 Cambio desde feature A
 Cambio sin añadir
 Versión estable preparada
+ERROR CRITICO EN PRODUCCION
