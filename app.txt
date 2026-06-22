@@ -1,10 +1,1 @@
-Hola CI/CD
-Linea nueva
-Cambio 1
-Cambio 2
-Cambio 3
-Nueva funcionalidad
-ERROR EN EL CODIGO
-Codigo corregido
-Nueva feature empresa
-Feature login
+Cambio desde feature A
