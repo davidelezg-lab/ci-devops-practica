@@ -14,3 +14,4 @@ Interfaz creada
 Login implementado
 Cambio pequeño
 Cambio rebase
+Nueva validación
