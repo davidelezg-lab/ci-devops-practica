@@ -6,4 +6,9 @@ ERROR CRITICO EN PRODUCCION
 Código funcional pero con baja calidad
 Código mejorado y revisado
 Funcionalidad lista para pasar por entornos
+<<<<<<< HEAD
 API creada
+=======
+Interfaz creada
+>>>>>>> feature-ui
+Login implementado
