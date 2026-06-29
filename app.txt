@@ -2,3 +2,4 @@ Cambio desde main
 Cambio desde feature ANueva funcionalidad
 Validación de datos añadida
 Versión estable preparada
+Código funcional pero con baja calidad
