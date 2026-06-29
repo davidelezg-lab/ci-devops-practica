@@ -4,3 +4,4 @@ Validación de datos añadida
 Versión estable preparada
 Código funcional pero con baja calidad
 Código mejorado y revisado
+Funcionalidad lista para pasar por entornos
